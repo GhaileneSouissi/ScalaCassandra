@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+<person>
+	<name>Jean</name>
+	<age>6</age>
+</person>
+<person>
+	<name>Ousmane</name>
+	<age>89</age>
+</person>
+<person>
+	<name>Alexis</name>
+	<age>14</age>
+</person>
+<person>
+	<name>Feliks</name>
+	<age>18</age>
+</person>
+<person>
+	<name>Joachim</name>
+	<age>56</age>
+</person>
+<person>
+	<name>Olivier</name>
+	<age>13</age>
+</person>
+<person>
+	<name>François</name>
+	<age>66</age>
+</person>
+<person>
+	<name>Thomas</name>
+	<age>37</age>
+</person>
+<person>
+	<name>Vivien</name>
+	<age>29</age>
+</person>
+<person>
+	<name>Franck</name>
+	<age>54</age>
+</person>
+</root>

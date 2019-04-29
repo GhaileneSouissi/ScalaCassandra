@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+<person>
+	<name>Jean</name>
+	<city>PARIS</city>
+</person>
+<person>
+	<name>Ousmane</name>
+	<city>TOKYO</city>
+</person>
+<person>
+	<name>Alexis</name>
+	<city>DAKAR</city>
+</person>
+<person>
+	<name>Feliks</name>
+	<city>MOSCOU</city>
+</person>
+<person>
+	<name>Joachim</name>
+	<city>LONDRES</city>
+</person>
+<person>
+	<name>Olivier</name>
+	<city>MADRID</city>
+</person>
+<person>
+	<name>François</name>
+	<city>BERLIN</city>
+</person>
+<person>
+	<name>Thomas</name>
+	<city>ROME</city>
+</person>
+<person>
+	<name>Vivien</name>
+	<city>NEW-YORK</city>
+</person>
+<person>
+	<name>Franck</name>
+	<city>BRASILIA</city>
+</person>
+</root>
